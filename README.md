@@ -1,3 +1,9 @@
+# This is the final project of my computer graphics course.
+
+# To see the project, run the final-grtown with a local server.
+
+# Original readme goes from here
+
 # CS559 Workbook, Spring 2023
 
 This set of web pages forms a "workbook" assignment for 

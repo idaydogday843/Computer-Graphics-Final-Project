@@ -10,7 +10,7 @@ import { shaderMaterial } from "../libs/CS559-Framework/shaderHelper.js";
 
 export function main(world) {
     // make two rows of houses, mainly to give something to look at
-    let tex = new T.CubeTextureLoader().load(["./skybox/px.png","./skybox/nx.png","./skybox/py.png","./skybox/ny.png","./skybox/pz.png","./skybox/nz.png"]);
+    let tex = new T.CubeTextureLoader().load(["./for_students/skybox/px.png","./for_students/skybox/nx.png","./for_students/skybox/py.png","./for_students/skybox/ny.png","./for_students/skybox/pz.png","./for_students/skybox/nz.png"]);
     world.scene.background = tex,'blue';
     let pad = new GrVertibirdPad({x:0,y:0,z:14});
     world.add(pad); 
@@ -73,7 +73,7 @@ export function main(world) {
 
     let runway = new B.GrRunway({x:0,y:0.1,z:-2});
     world.add(runway);
-    let terminalMat = shaderMaterial("./shaders/terminal.vs", "./shaders/terminal.fs", {
+    let terminalMat = shaderMaterial("./for_students/shaders/terminal.vs", "./for_students/shaders/terminal.fs", {
         uniforms: {
             radius: { value: 0.3 },
             dots: { value: 5.0 },
@@ -83,7 +83,7 @@ export function main(world) {
         },
         side: T.DoubleSide,
       });
-      let radioMat = shaderMaterial("./shaders/terminal.vs", "./shaders/terminal.fs", {
+      let radioMat = shaderMaterial("./for_students/shaders/terminal.vs", "./for_students/shaders/terminal.fs", {
         uniforms: {
             light: { value: new T.Vector3(0.5, 0.5, 0.5) },
             dark: { value: new T.Vector3(0.5, 0.5, 0.5) },
@@ -91,7 +91,7 @@ export function main(world) {
         },
         side: T.DoubleSide,
       });
-      let matmap = new T.TextureLoader().load("./brickMat.jpg");
+      let matmap = new T.TextureLoader().load("./for_students/brickMat.jpg");
       let brickMat = new T.MeshStandardMaterial({
         color: "#cb4154",
         roughness:0.8,
