@@ -1,0 +1,15 @@
+Three different behaviors that you made:
+1. Brotherhood Of Steel Soldier-1: The Brotherhood Of Steel soldier walking back and forth on the airship "The Prydwen"
+2. Vertibird-1: A Vertibird takes off vertically, and patrols around the scene
+3. Vertibird-2: A Vertibird takes off horizontally, patrols around the scene, then lands on the airport runway (in a loop)
+
+One behavior that is not simple:
+Not simple: Vertibird-1: A Vertibird takes off, and patrols around the scene
+
+Animated Articulated Figure:
+Articulated: Vertibird-2: A Vertibird takes off horizontally, patrols around the scene, then lands on the airport runway (in a loop)
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- Brotherhood Of Steel Soldier-3: The Brotherhood Of Steel soldier walking between the two redbrick hangers (Patrol)
+- Liberty Prime: The war robot patrols in the airport
+- Brotherhood Of Steel Soldier-2: The Brotherhood Of Steel soldier standing on the top deck of the Prydwen, watching around the scene(turning head around)

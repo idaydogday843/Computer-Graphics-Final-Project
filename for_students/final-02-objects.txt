@@ -1,0 +1,29 @@
+(Required) Two kinds of objects created for this assignment:
+1. The Prydwen* - the airship of the Brotherhood of Steel made using a considerable amount of basic geometry meshes and buffer geometry meshes
+2. Brotherhood Of Steel Soldier-3* - the soldiers wearing high technology power armor, also made using a considerable amount of basic geometry meshes and buffer geometry meshes
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. Liberty Prime* - the war robot of the Brotherhood of Steel, also made using a considerable amount of basic geometry meshes and buffer geometry meshes
+4. Vertibird-2* - the aircraft used by Brotherhood of Steel, made using a considerable amount of basic geometry meshes and extrude geometry meshes from WB7
+5. Radio Tower* - the airport radio tower made using basic geometry meshes and extrude geometry meshes
+6. Billboard* - the dynamic environment map textured billboard made using basic geometry combinations
+7. Airport Terminal* - the shader textured airport terminal building made using basic geometry
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- Hanger - the uv textured hanger made using basic geometry and buffer geometry
+- Airport Runway - the airport runway made using basic geometry combinations
+- Vertibird Pad - the vertibird helipad made using basic geometry combinations
+
+At least on of each type of object:
+Building/structure: Radio Tower (described above)
+Vehicle: The Prydwen (described above)
+Natural Element: Tree-1* (described below)
+
+Object loaded from a model file:
+Model: Tree-1* - loaded from an OBJ file from the web, attribution below
+
+An object with a shader that you wrote:
+ShaderObj: Airport Terminal: I combined procedural generated shader, diffuse lighting, and anti-aliasing in my shader to mime the look of a building with multiple windows
+
+Other Objects that you would like to note:
+Radar - the radar made using basic geometry from WB7

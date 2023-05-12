@@ -1,0 +1,27 @@
+Advanced Thing: Complex Behavior (#2)
+Example: Drive/Follow Vertibird-1
+Vertibird-1 demonstrates how a vertibird rotates its wings, takes off, and flys in this behavior. It takes off, fly around the scene and patrols around.
+
+Advanced Thing: Complex Behavior (#2)
+Example: Drive/Follow Vertibird-2
+Vertibird-2 demonstrates how a vertibird rotates its wings, takes off non-vertically, flys, and lands in this behavior. It takes off non-vertically, fly around the scene, then lands on the airfield, circles back to the takeoff position, and so on.
+
+Advanced Thing: Complex Behavior (#2)
+Example: Follow Brotherhood Of Steel Soldier-1/Brotherhood Of Steel Soldier-3
+These soldiers demonstrates a walking behavior, they move forward, their legs and arms move mostly properly.
+
+Advanced Thing: Complex Object (#3)
+Example: The Prydwen
+The Prydwen is the major airship of the Brotherhood of Steel. By using a considerable amount of meshes and translating to the correct position, I tried to replicate the look of this airship with a lot of efforts.
+
+Advanced Thing: Complex Object (#3)
+Example: Vertibird
+Vertibirds are the aircraft used by Brotherhood of Steel. They can change its flying mode by rotating its outer wings. When the propellers are facing upward, they are in vertical flying mode. When the propellers are facing forward, they fly like normal aircrafts.
+
+Advanced Thing: Complex Object (#3)
+Example: Brotherhood of Steel Soldier
+These soldiers wears whats called "power armor" in Fallout, so they look like robots but they are humans. Their limbs and head can move independently and realistically -- just like real human.
+
+Advanced Thing: Dynamic Environment Map (#17)
+Example: Lookat Billboard
+The billboard reflects the surroundings/scene, which makes it look like a camera screen
